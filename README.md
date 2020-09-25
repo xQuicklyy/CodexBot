@@ -1,0 +1,2 @@
+# CodexBot
+DiscordJS bot :)
